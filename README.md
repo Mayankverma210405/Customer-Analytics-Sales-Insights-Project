@@ -51,8 +51,7 @@ FastAPI Backend
 ↓
 Dashboard (Streamlit / Excel)
 
-yaml
-Copy code
+
 
 ---
 
@@ -116,8 +115,7 @@ customer-analytics-platform/
 ├── requirements.txt
 ├── README.md
 
-yaml
-Copy code
+
 
 ---
 
